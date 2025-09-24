@@ -3,7 +3,7 @@
 Estos harness son programas base que preparan las entradas, dejan un espacio para la rutina de cada integrante y muestran los resultados.
 
 ---
-
+```
 ## Ejercicio 1 – Calculadora básica
 
 ; harness ejercicio 1: calculadora basica
@@ -32,7 +32,6 @@ EAP
 
 HLT
 
-```
 
 ---
 
