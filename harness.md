@@ -1,6 +1,6 @@
 # Harness de Pruebas – Taller Arquitectura (SimuProc 1.4.3.0)
 
-Estos harness son programas base que preparan las entradas, dejan un espacio para la rutina de cada integrante y muestran los resultados.
+Estos harness son programas base que preparan las entradas y muestran los resultados.
 
 ---
 ```
